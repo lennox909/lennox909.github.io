@@ -23,7 +23,7 @@ repository               : "lennox909/lennox909.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.png.jpg"
   name             : "Lennox Wambu"
   pronouns         : # example: "she/her"  
   bio              : "Computer Science student focused on algorithmic trading systems, building data driven tools in Python and C/C++"
