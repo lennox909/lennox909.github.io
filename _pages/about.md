@@ -28,7 +28,7 @@ Built a custom Python backtesting framework processing 5+ years of financial tim
 ---
 
   **Education**  
-**B.S. in Software Engineering** — University of Texas at Arlington (Expected May 2027)
+**B.S. in Software Engineering** — University of Texas at Arlington 
 
 ---
 
